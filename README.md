@@ -1,2 +1,5 @@
-# HackODS
-Tablero y storytelling sobre nuestros ODS elegidos 
+# Pseudobiomédicos
+## Integrantes 
+- Noemi Garcia Santos
+- Janue Alvarado
+- Alejandro Romero de la Cruz
