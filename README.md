@@ -85,6 +85,7 @@ agua disponible.
 > a lo que importa. La IA no piensa por nosotros — nosotros le
 > decimos qué pensar... y luego lo corregimos."*
 
-Dale click a la imagen de i abajo para saber más de nuestra filosofia de uso de la IA y como nos apoyo en este proyecto
+Dale click a la imagen de abajo para saber más de nuestra filosofia de uso de la IA y como nos apoyo en este proyecto.
+PD. Esa imagen no fue creada por IA...
 [![AI Log](https://www.isdi.education/es/wp-content/uploads/2024/10/impacto-de-la-ia.webp)](./ai-log.md)
 
