@@ -2,7 +2,7 @@
 
 ## Herramientas
 - Claude
-- -NotebookLM
+- NotebookLM
 
 ## Filosofía de uso
 Decidimos utilizar IA como apoyo en la creación, corrección y optimización
