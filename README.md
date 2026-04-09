@@ -77,3 +77,14 @@ agua disponible.
 > intervenir el sistema, no solo el plato de comida.** Los datos que
 > analizamos buscan evidenciar estas conexiones y orientar políticas
 > públicas integrales.
+
+# Uso de Inteligencia Artificial
+*IMPORTANTE*
+> *"Usamos IA como cualquier científico serio usa una calculadora:
+> para no perder el tiempo en lo mecánico y dedicarle el cerebro
+> a lo que importa. La IA no piensa por nosotros — nosotros le
+> decimos qué pensar... y luego lo corregimos."* 🧠⚡
+
+[![AI Log](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/ChatGPT-Logo.png/240px-ChatGPT-Logo.png)](./ai-log.md)
+
+📄 [Ver bitácora completa de uso de IA →](./ai-log.md)
