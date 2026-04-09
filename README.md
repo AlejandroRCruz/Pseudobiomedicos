@@ -86,5 +86,5 @@ agua disponible.
 > decimos qué pensar... y luego lo corregimos."*
 
 Dale click a la imagen de i abajo para saber más de nuestra filosofia de uso de la IA y como nos apoyo en este proyecto
-[![AI Log]([https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/ChatGPT-Logo.png/240px-ChatGPT-Logo.png](https://www.isdi.education/es/wp-content/uploads/2024/10/impacto-de-la-ia.webp))](./ai-log.md)
+[![AI Log](https://www.isdi.education/es/wp-content/uploads/2024/10/impacto-de-la-ia.webp)](./ai-log.md)
 
