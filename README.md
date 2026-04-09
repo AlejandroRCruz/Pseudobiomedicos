@@ -83,8 +83,8 @@ agua disponible.
 > *"Usamos IA como cualquier científico serio usa una calculadora:
 > para no perder el tiempo en lo mecánico y dedicarle el cerebro
 > a lo que importa. La IA no piensa por nosotros — nosotros le
-> decimos qué pensar... y luego lo corregimos."* 🧠⚡
+> decimos qué pensar... y luego lo corregimos."*
 
-[![AI Log](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/ChatGPT-Logo.png/240px-ChatGPT-Logo.png)](./ai-log.md)
+Dale click a la imagen de i abajo para saber más de nuestra filosofia de uso de la IA y como nos apoyo en este proyecto
+[![AI Log]([https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/ChatGPT-Logo.png/240px-ChatGPT-Logo.png](https://www.isdi.education/es/wp-content/uploads/2024/10/impacto-de-la-ia.webp))](./ai-log.md)
 
-📄 [Ver bitácora completa de uso de IA →](./ai-log.md)
