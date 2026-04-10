@@ -37,6 +37,14 @@ con la obesidad infantil: un niño sin acceso a agua limpia en su escuela
 recurre a bebidas azucaradas, uno de los principales detonantes del
 sobrepeso en edad temprana.
 
+Metadatos:
+Para la identificación y localización, se incluyen CLAVE SITIO, SITIO, ORGANISMO_DE_CUENCA, ESTADO, MUNICIPIO, ACUIFERO, SUBTIPO, LONGITUD, LATITUD y PERIODO. Los parámetros físico-químicos y microbiológicos se registran en columnas como FLUORUROS_MG/L, COLI_FEC_NMP/100ML, N_NO3_MG/L, AS_TOT_MG/L, CD_TOT_MG/L, CR_TOT_MG/L, ALC_MG/L, CONDUCT_US/CM, DUR_MG/L, SDT_MG/L, HG_TOT_MG/L, PB_TOT_MG/L, MN_TOT_MG/L y FE_TOT_MG/L. Cada uno de estos parámetros cuenta con su respectiva evaluación de cumplimiento en columnas como CALIDAD_FLUO, CALIDAD_CF, CALIDAD_N_NO3, CALIDAD_AS, CALIDAD_CD, CALIDAD_CR, CALIDAD_ALC, CALIDAD_CONDUC, CALIDAD_DUR, CALIDAD_SDT, CALIDAD_HG, CALIDAD_PB, CALIDAD_MN y CALIDAD_FE. Finalmente, la base incluye indicadores globales de síntesis: SEMÁFORO, que clasifica el estado del agua en verde, amarillo o rojo, y CONTAMINANTES, que lista los parámetros que incumplen
+
+Fuente: 
+Comisión Nacional del Agua (Conagua). (s.f.). Indicadores de calidad del agua. Gobierno de México. Recuperado el 10 de abril de 2026 de https://www.gob.mx/conagua/es/articulos/indicadores-de-calidad-del-agua?idiom=es
+Año de descarga: 
+2026
+
 ---
 
 ## ODS 8 — Trabajo Decente y Crecimiento Económico
