@@ -1,6 +1,6 @@
 # Pseudobiomédicos
 ## Integrantes 
-- **Noemi Garcia Santos**: Estudiante de la maestria en Ciencia de la computación en el Posgrado de Ciencias e ingenieria de la computación(PCIC), actualmente trabaja diseñando bases de datos para el INER, sus temas de interes: ..
+- **Noemi Garcia Santos**: Estudiante de la maestria en Ciencia de la computación en el Posgrado de Ciencias e ingenieria de la computación(PCIC), actualmente trabaja diseñando bases de datos para el INER, sus temas de interes: El desarrollo de software/aplicaciones que faciliten la vida de las personas.
 - **Janue Alvarado**: Estudiante de la licenciatura en matematicas en UNAM, apasionado atleta e interesando en el deep learning así cómo en la naturaleza topologica de los datos....
 - **Alejandro Romero de la Cruz**: Estudiante de la Maestría en Ciencia de la Computación en el Posgrado de Ciencias e Ingeniería de la Computación (PCIC), actualmente imparte clases en licenciaturas de Ciberseguridad e Ingeniería de la Computación. Le apasiona todo lo relacionado con el Machine Learning y Deep Learning, además de tener un profundo interés en el mundo de las señales en una y dos dimensiones. Su meta en la vida es contribuir a que personas con discapacidades, dificultades o en situación de segregación puedan acceder a una vida digna.
 
